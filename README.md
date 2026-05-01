@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am Ian Mungai 👋
+ Nairobi, Kenya
 
-<!--
-**iantonny/iantonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI Engineer journey from zero to exceptional
 
-Here are some ideas to get you started:
+📚 Currently: CS50x Harvard — Week 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Trilingual — English, Swahili, Kikuyu
+   Building AI tools for African languages nobody else is building
+
+🚀 My Journey:
+- Started: April 2026
+- Goal: AI Engineer by January 2027
+- Daily commitment: 6 hours every single day
+
+💡 What I am building toward:
+   AI systems that speak and understand African languages
+
+📈 Follow my journey — every project, every struggle, every win
+   is documented right here on GitHub
+
+---
+⚡ Currently learning: Arrays in C — CS50 Week 2
