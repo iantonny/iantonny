@@ -1,23 +1,43 @@
-# Hi, I am Ian Mungai 👋
- Nairobi, Kenya
+# 🚀 Ian Mungai
 
-🎯 Aspiring AI Engineer journey from zero to exceptional
+Nairobi, Kenya
 
-📚 Currently: CS50x Harvard — Week 2
+## 🎯 Aspiring AI Engineer
 
-🌍 Trilingual — English, Swahili, Kikuyu
-   Building AI tools for African languages nobody else is building
+Building from zero → exceptional
 
-🚀 My Journey:
-- Started: April 2026
-- Goal: AI Engineer by January 2027
-- Daily commitment: 6 hours every single day
+## 📚 Current Focus
 
-💡 What I am building toward:
-   AI systems that speak and understand African languages
+* CS50x (Week 2 — Algorithms)
+* C Programming & Problem Solving
+* Daily coding and project building
 
-📈 Follow my journey — every project, every struggle, every win
-   is documented right here on GitHub
+## 🌍 Languages
 
----
-⚡ Currently learning: Arrays in C — CS50 Week 2
+* English
+* Swahili
+* Kikuyu
+
+## 💡 Vision
+
+Building AI systems that understand and communicate in African languages — solving problems that are largely ignored today.
+
+## 🚀 Journey
+
+* Started: April 2026
+* Target: AI Engineer by January 2027
+* Daily commitment: 6 hours of focused work
+
+## 🛠️ Projects
+
+* CS50 Problem Sets (Week 1 completed)
+* CLI Calculator (in progress)
+
+## ⚡ Philosophy
+
+Struggle, debugging, and failure are part of the process.
+I learn by building, not just consuming.
+
+## 📈 Progress
+
+Documenting every step — projects, failures, and wins — on GitHub.
